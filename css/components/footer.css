@@ -1,0 +1,14 @@
+.footer {
+  text-align: center;
+  padding: 50px;
+  background-color: #010204;
+}
+
+.fa-fw {
+  font-size: 23px;
+  color: #66DD89;
+}
+
+.footer p {
+  color: white;
+}
